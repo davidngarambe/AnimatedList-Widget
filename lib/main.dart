@@ -106,7 +106,7 @@ class _AnimatedListDemoState extends State<AnimatedListDemo> {
   }
 }
 
-// ─── Reusable tile ────────────────────────────────────────────────────────────
+// Reusable tile
 
 class _ItemTile extends StatelessWidget {
   final String label;
